@@ -1,1 +1,3 @@
 # my-choice
+***
+This program was made to review the topics: **Maps and Lists**. The usercomments.txt file contains a list of users and comments made by each user. A user may be listed multiple times with different comments they made. The program reads from the usercomments.txt file and stores the information in a Map that uses Strings as keys and Lists of Strings as values. The user and all the comments that they have made are represented by the key, value pairs. Each user is only listed once in the Map.
